@@ -147,10 +147,9 @@ async def remove_username(new_List):
 async def addFooter(str):
     footer = """
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-         Join Our Main Channel -    https://t.me/joinchat/Q3WJwWRqoIQ1YTk1
+         Join Our Main Channel -    @hornyworld22
 
-     Request Your Favorite - 
-       @thecinemaxgroup
+     Our meme channel - @desi_memez
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
 ⭐️JOIN CHANNEL ➡️ t.me/""" + CHANNEL
