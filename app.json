@@ -15,23 +15,23 @@
         },
         "API_ID": {
             "description": "Get this value from https://my.telegram.org",
-            "value": "2387090"
+            "value": "6314184"
         },
         "API_HASH": {
             "description": "Get this value from https://my.telegram.org",
-            "value": "04fc2de75c898324561286e5b10bd619"
+            "value": "761ab43cf702c8343858dd72dba9361c"
         },
         "PDISK_API_KEY": {
             "description": "Get this from https://www.pdisk.me/use-api (must change)",
-            "value": "d03ea83365f488f7003c885ed132615b"
+            "value": "913414d9eed750fe466086b5e10ebbe8"
         },
         "CHANNEL": {
             "description": "Enter your telegram channel Username (must change and without @)",
-            "value": "TheTeleRoid"
+            "value": "hornyworld22"
         },
         "THUMB_URL": {
             "description": "Enter the permanent thumbnail image url can use this @TeleRoid_Image2Link_BOT",
-            "value" : "https://telegra.ph/file/51a84cdd8254ee0406683.jpg"
+            "value" : "https://telegra.ph/file/bcaaa74148d7703402385.jpg"
         }
     },
     "addons": [],
