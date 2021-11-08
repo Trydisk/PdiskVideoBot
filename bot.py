@@ -149,22 +149,12 @@ async def addFooter(str):
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
     🔰JOIN MOVIE CHANNEL⚠️
 @new_movie_webserie
-@new_movie_webserie
 ───────────────────
-MEME/ jokes पसंद है तो JOIN कर लीजिए please
-
-Join---------
-@memehub16
+MEME/ jokes पसंद है तो JOIN please
 @memehub16
 ───────────────────
-FLI*PKART, AMAZO*N SHOPPING LOOT DEALS..
-
-join channel-------
+FLI*PKART, AMAZO*N  LOOT DEALS.
 @kooltech_01
-@kooltech_01
-───────────────────
-✯✯✯✯✯✯✯✯✯✯✯✯✯
-📌 𝐒𝐡𝐚𝐫𝐞 𝐀𝐧𝐝 𝐒𝐮𝐩𝐩𝐨𝐫𝐭👍👍
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
 ⭐️JOIN CHANNEL ➡️ t.me/""" + CHANNEL
