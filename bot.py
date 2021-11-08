@@ -149,15 +149,12 @@ async def addFooter(str):
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
     🔰JOIN MOVIE CHANNEL⚠️
 @new_movie_webserie
-───────────────────
+
 MEME/ jokes पसंद है तो JOIN please
 @memehub16
-───────────────────
-FLI*PKART, AMAZO*N  LOOT DEALS.
-@kooltech_01
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
-⭐️JOIN CHANNEL ➡️ t.me/""" + CHANNEL
+⭐️ FLIP*KART AM*AZON LOOT DEALS ➡️ t.me/""" + CHANNEL
     return str + footer
 
 bot.run()
