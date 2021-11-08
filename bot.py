@@ -147,7 +147,24 @@ async def remove_username(new_List):
 async def addFooter(str):
     footer = """
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-    
+    🔰JOIN MOVIE CHANNEL⚠️
+@new_movie_webserie
+@new_movie_webserie
+───────────────────
+MEME/ jokes पसंद है तो JOIN कर लीजिए please
+
+Join---------
+@memehub16
+@memehub16
+───────────────────
+FLI*PKART, AMAZO*N SHOPPING LOOT DEALS..
+
+join channel-------
+@kooltech_01
+@kooltech_01
+───────────────────
+✯✯✯✯✯✯✯✯✯✯✯✯✯
+📌 𝐒𝐡𝐚𝐫𝐞 𝐀𝐧𝐝 𝐒𝐮𝐩𝐩𝐨𝐫𝐭👍👍
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
 ⭐️JOIN CHANNEL ➡️ t.me/""" + CHANNEL
