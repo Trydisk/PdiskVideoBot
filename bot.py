@@ -147,14 +147,16 @@ async def remove_username(new_List):
 async def addFooter(str):
     footer = """
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-    🔰JOIN MOVIE CHANNEL⚠️
+🔰JOIN MOVIE CHANNEL⚠️
 @new_movie_webserie
 
-MEME/ jokes पसंद है तो JOIN please
+MEME/jokes पसंद है तो JOIN please
 @memehub16
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
 ⭐️ FLIP*KART AM*AZON LOOT DEALS ➡️ t.me/""" + CHANNEL
+
+Done
     return str + footer
 
 bot.run()
