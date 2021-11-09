@@ -156,5 +156,4 @@ MEME/jokes पसंद है तो JOIN please
 
 ⭐️ FLIP*KART AM*AZON LOOT DEALS ➡️ t.me/""" + CHANNEL
     return str + footer
-Done
 bot.run()
